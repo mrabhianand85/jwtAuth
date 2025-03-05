@@ -1,1 +1,1 @@
-# jwtAuth
+# Implemented JWT authentication
